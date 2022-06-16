@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137311962260",
+    "firebase_url": "https://hadriel-taxi-app---mobile-default-rtdb.firebaseio.com",
+    "project_id": "hadriel-taxi-app---mobile",
+    "storage_bucket": "hadriel-taxi-app---mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137311962260:android:244b01adef988da1312081",
+        "android_client_info": {
+          "package_name": "com.hadriel.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137311962260-vojavs0r9d9j4mce9gu0fbkmmq40nt27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJiRRswGq0XJ8QZ2tNTXwyv1LBtlS1gQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137311962260-vojavs0r9d9j4mce9gu0fbkmmq40nt27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
